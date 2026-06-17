@@ -1,0 +1,16 @@
+Retail Sales Analytics Summary Report
+Generated: June 17, 2026 at 07:24 PM
+
+Executive Summary
+The retail business generated $28.0K in total revenue across 24 orders from 23 unique customers. The average order value was $1.2K.
+
+Key Findings
+Total Revenue: $28.0K
+Top Product: Canon ImageCLASS Copier ($8.0K)
+Top Customer: Sally Stevens ($4.9K)
+Best Category: Technology ($16.0K)
+Number of Orders: 24
+Date Range: January 08, 2024 to December 18, 2024
+
+Business Interpretation
+Revenue is concentrated among a small set of high-value products and customers. The top product and top customer should be reviewed for retention, inventory planning, and promotional opportunities. Category-level performance highlights where the business is strongest and where merchandising or pricing strategies may need closer review.
